@@ -1,3 +1,3 @@
 # release-practice
 
-release v.1.0.5
+release v.1.0.6
